@@ -1,4 +1,3 @@
-import 'package:counter/task_model.dart';
 import 'package:flutter/material.dart';
 
 void main() {
